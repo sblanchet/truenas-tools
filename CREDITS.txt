@@ -1,0 +1,4 @@
+
+Special Thanks to:
+ > André Sébastien who has written disklist.pl
+ > See original repository https://github.com/nephri/FreeNas-DiskList
